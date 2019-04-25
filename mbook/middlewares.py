@@ -6,7 +6,11 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
+from fake_useragent import UserAgent
 import random
+import base64
+import logging
+
 
 class MbookSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
@@ -103,13 +107,26 @@ class MbookDownloaderMiddleware(object):
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-class ProxyMiddleware(object):
-    """Custom ProxyMiddleware."""
-    def __init__(self, settings):
-        self.proxy_list = settings.get('PROXY_LIST')
-        print(self.proxy_list)
-        with open(self.proxy_list) as f:
-            self.proxies = [ip.strip() for ip in f]
+class RandomUserAgent(object):
+    def process_request(self, request, spider):
+        ua = UserAgent()
+        request.headers['User-Agent'] = ua.random
 
-    def parse_request(self, request, spider):
-        request.meta['proxy'] = 'http://{}'.format(random.choice(self.proxies))
+
+class AbuyunProxyMiddleware(object):
+    """Abuyun ProxyMiddleware."""
+    # 中间件使用setting初始化的时候必须定义的方法
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler.settings)
+
+    def __init__(self, settings):
+        self.proxy_server = settings.get('PROXY_SERVER')
+        self.proxy_user = settings.get('PROXY_USER')
+        self.proxy_pass = settings.get('PROXY_PASS')
+        self.proxy_auth = "Basic " + base64.b64encode(bytes((self.proxy_user + ":" + self.proxy_pass), "ascii")).decode("utf8")
+
+    def process_request(self, request, spider):
+        request.meta['proxy'] = self.proxy_server
+        request.headers["Proxy-Authorization"] = self.proxy_auth
+        logging.debug('Using Proxy:%s' % self.proxy_server)
