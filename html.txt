@@ -1,0 +1,1309 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="gbk">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no"/>
+<title>天定福妻_天定福妻花日绯_千千小说</title>
+<meta name="keywords" content="天定福妻,天定福妻花日绯,千千小说"/>
+<meta name="description" content="天定福妻是晋江大神花日绯创作的古代言情小说,天定福妻最新章节由千千小说全网第一时间更新！千千小说汇集众多网友分享的当前热门火爆小说，提供免费小说在线阅读和txt下载，看小说就来千千小说网，千千小说是一个实用绿色健康的小说阅读网。"/>
+<link href="/web/css/bootstrap.min.css" rel="stylesheet">
+<link href="/web/css/style.css" rel="stylesheet">
+<script type="text/javascript" src="/web/js/jquery.min.js"></script>
+<script type="text/javascript" src="/web/js/b.m.js"></script>
+<script type="text/javascript" src="/web/js/17mb.js"></script>
+<script type="text/javascript" src="/web/js/17mbbase.js"></script>
+</head>
+    <body>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?35478337589c3a693a1297eddd44636d";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
+        <!-- Fixed navbar -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">千千小说</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">千千小说</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                    	<li class="navitem myinfo"><script>user()</script></li>
+                        <li class="bookcase" nav="shelf"><a href="/modules/article/bookcase.php"> <span class="glyphicon glyphicon-book" aria-hidden="true"></span> 书架</a></li>
+                        <li class="navitem" nav="cat_1" ><a href="/list/1-1.html">玄幻 </a></li>
+                        <li class="navitem" nav="cat_2" ><a href="/list/2-1.html">仙侠 </a></li>
+                        <li class="navitem" nav="cat_3" ><a href="/list/3-1.html">言情 </a></li>
+                        <li class="navitem" nav="cat_4" ><a href="/list/4-1.html">历史 </a></li>
+                        <li class="navitem" nav="cat_5" ><a href="/list/5-1.html">网游 </a></li>
+                        <li class="navitem" nav="cat_6" ><a href="/list/6-1.html">科幻 </a></li>
+                        <li class="navitem" nav="cat_7" ><a href="/list/7-1.html">恐怖 </a></li>
+                        <li class="navitem" nav="cat_8" ><a href="/list/8-1.html">其他 </a></li>
+                        <li class="dropdown">
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">榜单 <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/book/allvisit-1.html">总排行榜</a></li>
+                                <li><a href="/book/weekvisit-1.html">本周排行榜</a></li>
+                                <li><a href="/book/monthvisit-1.html">当月排行榜</a></li>
+                                <li><a href="/book/allvote-1.html">总推荐榜</a></li>
+                                <li><a href="/book/weekvote-1.html">本周推荐榜</a></li>
+                                <li><a href="/book/monthvote-1.html">当月推荐榜</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <form class="navbar-form navbar-right hidden-sm hidden-xs" name="articlesearch" action='/modules/article/search.php' method='post'>
+                        <input type="text" class="form-control form-search" placeholder="搜索" name="searchkey">
+                        <input type="submit" class="form-control btn-search" value="搜索">
+                    </form>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+        <div class="row visible-xs visible-sm">
+            <div class="col-md-12" style="margin:5px 0 20px 0 ">
+                <form name="articlesearch" action='/modules/article/search.php' method='post'>
+                    <div class="col-sm-12">
+                        <div class="input-group">
+                            <input type="text" class="form-control input-lg frm-search" value=""  placeholder="搜索" name="searchkey" autocomplete="off">
+                            <span class="input-group-btn">
+                                <button class="btn btn-info btn-lg" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+<div class="container">
+    <div class="row visible-xs visible-sm">
+        <div class="col-md-12" style="margin:5px 0 20px 0 ">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <span class="glyphicon glyphicon-tower" aria-hidden="true"></span> 网友热搜
+                </div>
+                <div class="panel-body panel-recommand"  >
+                    <ul class="list-inline px12">
+
+<li><a href="https://www.qianqianxs.com/33/33083/" title='赵小刚宋雨晴'>赵小刚宋雨晴</a> (一目尽是沧桑)</li>
+
+<li><a href="https://www.qianqianxs.com/36/36557/" title='驾校情缘老赵孙潇潇'>驾校情缘老赵孙潇潇</a> (老赵孙潇潇)</li>
+
+<li><a href="https://www.qianqianxs.com/61/61935/" title='情起难寻，伴你始终'>情起难寻，伴你始终</a> (姚映夕席远辰)</li>
+
+<li><a href="https://www.qianqianxs.com/65/65687/" title='死了都要爱金水'>死了都要爱金水</a> (金水)</li>
+
+<li><a href="https://www.qianqianxs.com/62/62397/" title='金色梦乡'>金色梦乡</a> (王浩)</li>
+
+<li><a href="https://www.qianqianxs.com/19/19633/" title='深爱在相遇之后'>深爱在相遇之后</a> (江流华笙)</li>
+
+<li><a href="https://www.qianqianxs.com/5/5402/" title='罪爱'>罪爱</a> (猴神大叔)</li>
+
+<li><a href="https://www.qianqianxs.com/27/27125/" title='差一个回首'>差一个回首</a> (冉凝冷骁)</li>
+
+<li><a href="https://www.qianqianxs.com/7/7632/" title='爱上你劫数难逃'>爱上你劫数难逃</a> (沈翘)</li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>_17mb_pctop();_17mb_waptop();</script>
+    <div class="row">
+        <div class="col-sm-12 col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <span class="glyphicon glyphicon-tower" aria-hidden="true"></span> 千千小说为您推荐
+                </div>
+                <div class="panel-body panel-recommand"  >
+                <div class="col-lg-3 col-sm-4  col-md-4 col-sm-index ">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/61/61935/" title='情起难寻，伴你始终全文阅读'>
+                        <img src="https://www.qianqianxs.com/files/article/image/61/61935/61935s.jpg" title='情起难寻，伴你始终全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/61/61935/" title='情起难寻，伴你始终全文阅读' >情起难寻，伴你始终</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%D2%A6%D3%B3%CF%A6%CF%AF%D4%B6%B3%BD" title="姚映夕席远辰">姚映夕席远辰</a>                                    </div>
+                    <p class='book-intro-index'>被亲妹妹和相恋三年的男友背叛，姚映夕愤怒伤心之时却遇见席远辰。她长的很像他去世的前女友，他便强制把她&nbsp;<a style="color:red" href="https://www.qianqianxs.com/61/61935/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index ">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/36/36557/" title='驾校情缘老赵孙潇潇全文阅读'>
+                        <img src="https://www.qianqianxs.com/files/article/image/36/36557/36557s.jpg" title='驾校情缘老赵孙潇潇全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/36/36557/" title='驾校情缘老赵孙潇潇全文阅读' >驾校情缘老赵孙潇潇</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%C0%CF%D5%D4%CB%EF%E4%EC%E4%EC" title="老赵孙潇潇">老赵孙潇潇</a>                                    </div>
+                    <p class='book-intro-index'>老赵是一名上了岁数的驾校教练，每天无聊的上着班，而这一次，他的班上，却来了一堆年轻貌美的女大学生……&nbsp;<a style="color:red" href="https://www.qianqianxs.com/36/36557/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index ">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/7/7623/" title='星猎王全文阅读'>
+                        <img src="https://www.qianqianxs.com/modules/article/images/nocover.jpg" title='星猎王全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/7/7623/" title='星猎王全文阅读' >星猎王</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%D4%F4%D0%E3" title="贼秀">贼秀</a>                                    </div>
+                    <p class='book-intro-index'>    诸天世界，天龙八部，有这样一群人，他们的征途是星辰大海。一帆扬起向星空，浴月光，趟星河，骑太阳，&nbsp;<a style="color:red" href="https://www.qianqianxs.com/7/7623/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index ">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/25/25617/" title='我的高冷大小姐全文阅读'>
+                        <img src="https://www.qianqianxs.com/modules/article/images/nocover.jpg" title='我的高冷大小姐全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/25/25617/" title='我的高冷大小姐全文阅读' >我的高冷大小姐</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%C0%EE%C7%E7%B4%A8" title="李晴川">李晴川</a>                                    </div>
+                    <p class='book-intro-index'>一觉醒来有了老婆女儿，就算不承认都不行。 好吧，我是你老公…………1&nbsp;<a style="color:red" href="https://www.qianqianxs.com/25/25617/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index ">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/67/67293/" title='绝色老板娘王浩全文阅读'>
+                        <img src="https://www.qianqianxs.com/files/article/image/67/67293/67293s.jpg" title='绝色老板娘王浩全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/67/67293/" title='绝色老板娘王浩全文阅读' >绝色老板娘王浩</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%CD%F5%BA%C6" title="王浩">王浩</a>                                    </div>
+                    <p class='book-intro-index'>天生没有生育能力的老板，为了争夺遗产，竟让我为老板娘受孕……&nbsp;<a style="color:red" href="https://www.qianqianxs.com/67/67293/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index ">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/18/18552/" title='仙谷农家全文阅读'>
+                        <img src="https://www.qianqianxs.com/modules/article/images/nocover.jpg" title='仙谷农家全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/18/18552/" title='仙谷农家全文阅读' >仙谷农家</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%C9%BD%C6%C2" title="山坡">山坡</a>                                    </div>
+                    <p class='book-intro-index'>&nbsp;<a style="color:red" href="https://www.qianqianxs.com/18/18552/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index visible-lg">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/0/2/" title='神级龙卫全文阅读'>
+                        <img src="https://www.qianqianxs.com/files/article/image/0/2/2s.jpg" title='神级龙卫全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/0/2/" title='神级龙卫全文阅读' >神级龙卫</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%C9%F2%C0%CB%CB%D5%C8%F4%D1%A9" title="沈浪苏若雪">沈浪苏若雪</a>                                    </div>
+                    <p class='book-intro-index'>神秘高手龙潜花都，与冰山美女总裁签订婚约，但无奈被嫌弃。可怜的沈浪，只得外出觅食。不料一个个美女接踵&nbsp;<a style="color:red" href="https://www.qianqianxs.com/0/2/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+<div class="col-lg-3 col-sm-4  col-md-4 col-sm-index visible-lg">
+            <div class="media" style="border:none;margin-bottom: 0;padding-bottom: 0">
+                <div class="media-left media-heading">
+                    <a href="https://www.qianqianxs.com/12/12787/" title='首富老爸找上门全文阅读'>
+                        <img src="https://www.qianqianxs.com/modules/article/images/nocover.jpg" title='首富老爸找上门全文阅读' class="img" width="90" height="120" />
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/12/12787/" title='首富老爸找上门全文阅读' >首富老爸找上门</a></h4>
+                    <div class="book_author">
+                        作者: <a href="/author/%C7%D8%C6%BD%C7%D8%D3%EA" title="秦平秦雨">秦平秦雨</a>                                    </div>
+                    <p class='book-intro-index'>养了自己十几年的父母，居然不是亲生的，而这一天，亲生父亲带着亿万家产来接自己......&nbsp;<a style="color:red" href="https://www.qianqianxs.com/12/12787/">[点击阅读]</a></p>
+                </div>
+            </div>
+        </div>
+
+                                <div class="clearfix"></div>
+                    </div>
+		</div>
+        </div>
+    </div>
+   	<script>_17mb_pcmiddle();_17mb_wapmiddle();</script>
+    <div class="row">
+        <div class="col-sm-8 col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading"> 
+                    <span class="glyphicon glyphicon-star" aria-hidden="true"></span> 今日更新
+                    <!--<span style='float:right;'><a style="color:white" href="/book/lastupdate-1.html" title="更多更新小说">更多 >></a></span>-->
+                </div>
+                <div class="panel-body" >
+<table class="table">
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/56/56643/" title="总裁爹地惹不起">总裁爹地惹不起</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=56643&cid=61533279" title="第1151章 陪她疯">第1151章 陪她疯</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C9%CF%B9%D9%E6%AC" title="上官娆">上官娆</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/7-1.html" title="恐怖灵异小说列表" rel="bookmark">恐怖</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/10/10158/" title="神级修炼系统">神级修炼系统</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=10158&cid=61533278" title="第三千零一十四章 白灵">第三千零一十四章 白灵</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D0%A1%D6%AA%C1%CB" title="小知了">小知了</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/0/2/" title="神级龙卫">神级龙卫</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=2&cid=61533272" title="第3106章 狩猎试炼开启">第3106章 狩猎试炼开启</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C9%F2%C0%CB%CB%D5%C8%F4%D1%A9" title="沈浪苏若雪">沈浪苏若雪</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/1-1.html" title="玄幻魔法小说列表" rel="bookmark">玄幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/65/65646/" title="叶开苏媚">叶开苏媚</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=65646&cid=61533280" title="3158、消失不见">3158、消失不见</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B6%BF%AA%CB%D5%C3%C4" title="叶开苏媚">叶开苏媚</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/66/66134/" title="实力不允许我低调">实力不允许我低调</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=66134&cid=61533265" title="218 得来全不费工夫">218 得来全不费工夫</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D0%A4%B7%E6" title="肖锋">肖锋</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/1-1.html" title="玄幻魔法小说列表" rel="bookmark">玄幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/48/48220/" title="一月一千万零花钱">一月一千万零花钱</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=48220&cid=0" title="第174章 含羞答答许禾琪 （大章节）">第174章 含羞答答许禾琪 （大章节）</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%B3%FE%D4%B4%C1%D6%CB%BC%BA%AD" title="楚源林思涵">楚源林思涵</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/50/50935/" title="张北野宋倩">张北野宋倩</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=50935&cid=61533273" title="285、这可不是忽悠">285、这可不是忽悠</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CB%FD%C3%C7%CB%B5%CE%D2%B3%AC%D0%D7%B5%C4" title="她们说我超凶的">她们说我超凶的</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/110/110668/" title="顾小澜">顾小澜</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=110668&cid=61533264" title="第786章 言煜vs曲星星（62）">第786章 言煜vs曲星星（62）</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%B9%CB%D0%A1%C0%BD" title="顾小澜">顾小澜</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/6-1.html" title="科幻小说小说列表" rel="bookmark">科幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/55/55498/" title="慢慢喜欢你林初夏">慢慢喜欢你林初夏</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=55498&cid=61533271" title="第1418章 母女见面">第1418章 母女见面</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C1%D6%B3%F5%CF%C4" title="林初夏">林初夏</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/14/14745/" title="绝代妖女入金身叶开">绝代妖女入金身叶开</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=14745&cid=61533269" title="3158、消失不见">3158、消失不见</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B6%BF%AA" title="叶开">叶开</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/5/5584/" title="绝代妖女入金身">绝代妖女入金身</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=5584&cid=61533268" title="3158、消失不见">3158、消失不见</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C7%D8%B3%A4%C7%E0" title="秦长青">秦长青</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/37/37801/" title="极品透视保镖">极品透视保镖</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=37801&cid=61533267" title="3158、消失不见">3158、消失不见</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C7%D8%B3%A4%C7%E0" title="秦长青">秦长青</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/65/65663/" title="神眼狂少叶开苏媚">神眼狂少叶开苏媚</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=65663&cid=61533266" title="3158、消失不见">3158、消失不见</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B6%BF%AA%CB%D5%C3%C4" title="叶开苏媚">叶开苏媚</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/0-1.html" title="小说列表" rel="bookmark"></a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/77/77206/" title="爱少诱妻套路深">爱少诱妻套路深</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=77206&cid=61533263" title="第2097章：我背着我的全世界">第2097章：我背着我的全世界</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%B0%EB%CD%E4%CD%E4" title="半弯弯">半弯弯</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/19/19505/" title="小妻爱你如初">小妻爱你如初</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=19505&cid=61533246" title="第886章 准备好付出代价了吗">第886章 准备好付出代价了吗</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C9%F2%C7%CC" title="沈翘">沈翘</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/191/191404/" title="情余暗香永流传江筠儿">情余暗香永流传江筠儿</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=191404&cid=61533245" title="997 不顾及你的感受">997 不顾及你的感受</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%BD%AD%F3%DE%B6%F9" title="江筠儿">江筠儿</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/61/61415/" title="一世婚宠">一世婚宠</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=61415&cid=61533240" title="第402章 他不想又任何闪失">第402章 他不想又任何闪失</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C1%D6%C7%E5%BB%B6" title="林清欢">林清欢</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/66/66938/" title="夜少的二婚新妻">夜少的二婚新妻</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=66938&cid=61533262" title="第886章 准备好付出代价了吗">第886章 准备好付出代价了吗</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CA%B1%E5%FC" title="时妩">时妩</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/34/34668/" title="混蛋爹地，妈咪要改嫁">混蛋爹地，妈咪要改嫁</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=34668&cid=61533261" title="第886章 准备好付出代价了吗">第886章 准备好付出代价了吗</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B9%C4%AA%C9%EE" title="夜莫深">夜莫深</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/17/17157/" title="沈翘夜莫深">沈翘夜莫深</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=17157&cid=61533260" title="第886章 准备好付出代价了吗">第886章 准备好付出代价了吗</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B9%C4%AA%C9%EE" title="夜莫深">夜莫深</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/7/7632/" title="爱上你劫数难逃">爱上你劫数难逃</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=7632&cid=61533259" title="第886章 准备好付出代价了吗">第886章 准备好付出代价了吗</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C9%F2%C7%CC" title="沈翘">沈翘</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/50/50997/" title="富豪继承人">富豪继承人</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=50997&cid=61533258" title="第四百五十一章 特别的礼物">第四百五十一章 特别的礼物</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C0%EE%B7%B2%C1%D6%C7%E0%C7%E0" title="李凡林青青">李凡林青青</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/67/67033/" title="金钱掌控">金钱掌控</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=67033&cid=61533255" title="第四百五十一章 特别的礼物">第四百五十一章 特别的礼物</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C0%EE%B7%B2%C1%D6%C7%E0%C7%E0" title="李凡林青青">李凡林青青</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/65/65634/" title="李凡">李凡</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=65634&cid=61533252" title="第四百五十一章 特别的礼物">第四百五十一章 特别的礼物</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%BD%F0%C7%AE%D5%C6%BF%D8" title="金钱掌控">金钱掌控</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/64/64963/" title="我爷爷是迪拜首富李凡林青青">我爷爷是迪拜首富李凡林青青</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=64963&cid=61533249" title="第四百五十一章 特别的礼物">第四百五十一章 特别的礼物</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C0%EE%B7%B2%C1%D6%C7%E0%C7%E0" title="李凡林青青">李凡林青青</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/54/54632/" title="史上最强炼气期">史上最强炼气期</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=54632&cid=0" title="第二百三十五章 杀意！">第二百三十五章 杀意！</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%B7%BD%D3%F0%CC%C6%D0%A1%C8%E1" title="方羽唐小柔">方羽唐小柔</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/190/190792/" title="全国首富">全国首富</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=190792&cid=0" title="第四百五十一章 特别的礼物">第四百五十一章 特别的礼物</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C0%EE%B7%B2%C1%D6%C7%E0%C7%E0" title="李凡林青青">李凡林青青</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/110/110651/" title="叶凡">叶凡</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=110651&cid=61533230" title="第1043章 斩妖神">第1043章 斩妖神</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B6%B7%B2" title="叶凡">叶凡</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/40/40738/" title="她们说我超凶的">她们说我超凶的</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=40738&cid=0" title="285、这可不是忽悠">285、这可不是忽悠</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D5%C5%B1%B1%D2%B0%CB%CE%D9%BB" title="张北野宋倩">张北野宋倩</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/0-1.html" title="小说列表" rel="bookmark"></a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/175/175614/" title="豪门闪婚，娇妻晚上见">豪门闪婚，娇妻晚上见</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=175614&cid=61533220" title="第1918章 唯独做不好孩子">第1918章 唯独做不好孩子</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B2%B7%C7" title="也非">也非</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/4-1.html" title="历史军事小说列表" rel="bookmark">历史</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/12/12824/" title="第一鲜妻：顾少宠妻无度叶幽幽">第一鲜妻：顾少宠妻无度叶幽幽</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=12824&cid=61533215" title="第1127章：毕竟，我们不是敌人">第1127章：毕竟，我们不是敌人</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B6%D3%C4%D3%C4" title="叶幽幽">叶幽幽</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/54/54455/" title="林初夏陆厉">林初夏陆厉</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=54455&cid=61533227" title="第1418章 母女见面">第1418章 母女见面</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C1%D6%B3%F5%CF%C4" title="林初夏">林初夏</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/65/65234/" title="唐悠悠">唐悠悠</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=65234&cid=61533210" title="第1615章 她很满意">第1615章 她很满意</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CC%C6%D3%C6%D3%C6" title="唐悠悠">唐悠悠</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/1-1.html" title="玄幻魔法小说列表" rel="bookmark">玄幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/71/71088/" title="柔情姐姐">柔情姐姐</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=71088&cid=61533208" title="第729章 最后的答案">第729章 最后的答案</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C3%C0%D2%CC" title="美姨">美姨</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/45/45711/" title="秦凡夏梦">秦凡夏梦</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=45711&cid=61533225" title="第三百五十四章 选主播">第三百五十四章 选主播</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CC%EC%BD%B5%BA%E1%B2%C6" title="天降横财">天降横财</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/1-1.html" title="玄幻魔法小说列表" rel="bookmark">玄幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/64/64463/" title="翟思思靳乔衍">翟思思靳乔衍</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=64463&cid=61533223" title="第793章 不想干就给我滚">第793章 不想干就给我滚</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C6%F5%D4%BC%C5%AF%BB%E9%A3%BA%BD%F9%C9%D9%A3%AC%C7%D7%D2%BB%B8%F6" title="契约暖婚：靳少，亲一个">契约暖婚：靳少，亲一个</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/1/1789/" title="万年只争朝夕">万年只争朝夕</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=1789&cid=61533207" title="第一千五百五十七章 古尸中的能量！">第一千五百五十七章 古尸中的能量！</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D1%EE%B3%BE" title="杨尘">杨尘</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/45/45656/" title="迷上初夏的月光林初夏">迷上初夏的月光林初夏</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=45656&cid=61533219" title="第1418章 母女见面">第1418章 母女见面</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C1%D6%B3%F5%CF%C4" title="林初夏">林初夏</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/8-1.html" title="其他类型小说列表" rel="bookmark">其他</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/15/15052/" title="幸福的影子言小念">幸福的影子言小念</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=15052&cid=61533217" title="第989章 亲家的来历">第989章 亲家的来历</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D1%D4%D0%A1%C4%EE" title="言小念">言小念</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/57/57942/" title="神猛强兵归都叶开">神猛强兵归都叶开</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=57942&cid=61533216" title="3158、消失不见">3158、消失不见</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D2%B6%BF%AA" title="叶开">叶开</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/85/85346/" title="唐悠悠季枭寒">唐悠悠季枭寒</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=85346&cid=61533213" title="第1615章 她很满意">第1615章 她很满意</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%D0%A1%CB%B5%C3%E2%B7%D1%D4%C4%B6%C1" title="小说免费阅读">小说免费阅读</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/1-1.html" title="玄幻魔法小说列表" rel="bookmark">玄幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/71/71493/" title="总裁爹地宠上天唐悠悠">总裁爹地宠上天唐悠悠</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=71493&cid=61533212" title="第1615章 她很满意">第1615章 她很满意</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%B1%B4%D0%A1%B0%AE" title="贝小爱">贝小爱</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/0-1.html" title="小说列表" rel="bookmark"></a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/71/71415/" title="唐悠悠季枭寒">唐悠悠季枭寒</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=71415&cid=61533211" title="第1615章 她很满意">第1615章 她很满意</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%B1%B4%D0%A1%B0%AE" title="贝小爱">贝小爱</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/66/66784/" title="木叶之旗木家的快乐风男木叶">木叶之旗木家的快乐风男木叶</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=66784&cid=61533205" title="第三百零七章 绳树的知音">第三百零七章 绳树的知音</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C4%BE%D2%B6" title="木叶">木叶</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/29/29275/" title="李凌杨山">李凌杨山</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=29275&cid=61533209" title="第一千五百五十七章 古尸中的能量！">第一千五百五十七章 古尸中的能量！</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CD%F2%C4%EA%D6%BB%D5%F9%B3%AF%CF%A6" title="万年只争朝夕">万年只争朝夕</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/4-1.html" title="历史军事小说列表" rel="bookmark">历史</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/17/17042/" title="轮回武典">轮回武典</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=17042&cid=61533204" title="第六百七十五章 替换药剂，母亲大人！">第六百七十五章 替换药剂，母亲大人！</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C0%C7%D3%B0%BD%A3" title="狼影剑">狼影剑</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/67/67137/" title="流年沉醉忆盛夏权耀">流年沉醉忆盛夏权耀</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=67137&cid=61533203" title="第1510章 我是真的很害怕">第1510章 我是真的很害怕</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%C8%A8%D2%AB" title="权耀">权耀</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/4/4875/" title="为你抹去一世尘埃">为你抹去一世尘埃</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=4875&cid=61533206" title="第989章 亲家的来历">第989章 亲家的来历</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%BE%FD%D6%B9%B9%E9" title="君止归">君止归</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/3-1.html" title="都市言情小说列表" rel="bookmark">都市</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/13/13120/" title="初婚有刺夏至">初婚有刺夏至</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=13120&cid=61533189" title="第768章 一切都是刚开始">第768章 一切都是刚开始</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CF%C4%D6%C1" title="夏至">夏至</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+
+<tr>
+    <td class=" visible-lg px13 book_author">
+        [<a  rel="bookmark"  href="/list/1-1.html" title="玄幻魔法小说列表" rel="bookmark">玄幻</a>] 
+    </td>
+    <td class="nowrap px13">
+        <a href="https://www.qianqianxs.com/77/77334/" title="新特工学生">新特工学生</a>
+    </td>
+    <td class="hidden-xs index-chapter nowrap">
+        <a href="https://www.qianqianxs.com/modules/article/reader.php?aid=77334&cid=61533188" title="第2067章 骨妖">第2067章 骨妖</a>
+    </td>
+    <td class='book_author  visible-lg  nowrap'>
+        <a href="/author/%CD%F5%B4%F3%BA%F6%D3%C6" title="王大忽悠">王大忽悠</a></td>
+    <td class='book_update visible-lg nowrap'>2019-04-24</td>
+</tr>
+</table>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-sm-4 col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading"><span class="glyphicon glyphicon-indent-right" aria-hidden="true"></span> 新书入库</div>
+                <div class="panel-body" >
+                    <ul class="list-group list-group-ext">
+
+<div class="media" style="border:none;margin-bottom:5px;padding-bottom: 0">
+    <div class="media-left media-heading">
+        <a href="https://www.qianqianxs.com/210/210632/" title='为你筑起高墙全文阅读' >
+            <img title='为你筑起高墙全文阅读' src="https://www.qianqianxs.com/files/article/image/210/210632/210632s.jpg" class="img" width="90" height="110" />
+        </a>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/210/210632/" title='为你筑起高墙全文阅读' >为你筑起高墙</a></h4>
+        <p class="book_author">
+            作者: <a href="/author/%B4%CB%BF%CC%BE%FD" title="此刻君的全部作品">此刻君</a></p>
+        <p class='cat-book-intro'>    我们所看到的东西，可能并非全是真实的，我们所爱的那个人，可能并非是&nbsp;<a style="color:red" href="https://www.qianqianxs.com/210/210632/">[点击阅读]</a></p>
+    </div>
+</div>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>2.</font>
+        <a href="https://www.qianqianxs.com/210/210631/" title="民国女探：高冷少帅会撩妻" >民国女探：高冷少帅会撩妻</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>3.</font>
+        <a href="https://www.qianqianxs.com/210/210630/" title="重生之胖嫂要离婚" >重生之胖嫂要离婚</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>4.</font>
+        <a href="https://www.qianqianxs.com/210/210629/" title="证道诸天之道尊" >证道诸天之道尊</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>5.</font>
+        <a href="https://www.qianqianxs.com/210/210628/" title="你好，维多利亚港" >你好，维多利亚港</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>6.</font>
+        <a href="https://www.qianqianxs.com/210/210627/" title="天醒之路" >天醒之路</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>7.</font>
+        <a href="https://www.qianqianxs.com/210/210626/" title="当时明月照彩云" >当时明月照彩云</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>8.</font>
+        <a href="https://www.qianqianxs.com/210/210625/" title="重生校园：御兽女王惹不起" >重生校园：御兽女王惹不起</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>9.</font>
+        <a href="https://www.qianqianxs.com/210/210624/" title="花都特种杀手" >花都特种杀手</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>10.</font>
+        <a href="https://www.qianqianxs.com/210/210623/" title="系统之开宗立派" >系统之开宗立派</a>
+	</li>
+
+					</ul>
+				</div>
+            </div>
+			<script>_17mb_wapmiddle();</script>
+            <div class="panel panel-default">
+                <div class="panel-heading"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span> 阅读排行</div>
+                <div class="panel-body" >
+                    <ul class="list-group list-group-ext">
+
+<div class="media" style="border:none;margin-bottom:5px;padding-bottom: 0">
+    <div class="media-left media-heading">
+        <a href="https://www.qianqianxs.com/33/33083/" title='赵小刚宋雨晴全文阅读' >
+            <img title='赵小刚宋雨晴全文阅读' src="https://www.qianqianxs.com/files/article/image/33/33083/33083s.jpg" class="img" width="90" height="110" />
+        </a>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/33/33083/" title='赵小刚宋雨晴全文阅读' >赵小刚宋雨晴</a></h4>
+        <p class="book_author">
+            作者: <a href="/author/%D2%BB%C4%BF%BE%A1%CA%C7%B2%D7%C9%A3" title="一目尽是沧桑的全部作品">一目尽是沧桑</a></p>
+        <p class='cat-book-intro'>大哥死的突然，留下一个仙女一般的嫂子让赵小刚照顾，但是村里人都说她是扫&nbsp;<a style="color:red" href="https://www.qianqianxs.com/33/33083/">[点击阅读]</a></p>
+    </div>
+</div>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>2.</font>
+        <a href="https://www.qianqianxs.com/36/36557/" title="驾校情缘老赵孙潇潇" >驾校情缘老赵孙潇潇</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>3.</font>
+        <a href="https://www.qianqianxs.com/61/61935/" title="情起难寻，伴你始终" >情起难寻，伴你始终</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>4.</font>
+        <a href="https://www.qianqianxs.com/65/65687/" title="死了都要爱金水" >死了都要爱金水</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>5.</font>
+        <a href="https://www.qianqianxs.com/62/62397/" title="金色梦乡" >金色梦乡</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>6.</font>
+        <a href="https://www.qianqianxs.com/19/19633/" title="深爱在相遇之后" >深爱在相遇之后</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>7.</font>
+        <a href="https://www.qianqianxs.com/5/5402/" title="罪爱" >罪爱</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>8.</font>
+        <a href="https://www.qianqianxs.com/27/27125/" title="差一个回首" >差一个回首</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>9.</font>
+        <a href="https://www.qianqianxs.com/7/7632/" title="爱上你劫数难逃" >爱上你劫数难逃</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>10.</font>
+        <a href="https://www.qianqianxs.com/25/25617/" title="我的高冷大小姐" >我的高冷大小姐</a>
+	</li>
+
+					</ul>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading"><span class="glyphicon glyphicon-stats" aria-hidden="true"></span> 热赞排行</div>
+                <div class="panel-body" >
+                    <ul class="list-group list-group-ext">
+
+<div class="media" style="border:none;margin-bottom:5px;padding-bottom: 0">
+    <div class="media-left media-heading">
+        <a href="https://www.qianqianxs.com/63/63419/" title='最佳女婿全文阅读' >
+            <img title='最佳女婿全文阅读' src="https://www.qianqianxs.com/files/article/image/63/63419/63419s.jpg" class="img" width="90" height="110" />
+        </a>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading book-title"><a href="https://www.qianqianxs.com/63/63419/" title='最佳女婿全文阅读' >最佳女婿</a></h4>
+        <p class="book_author">
+            作者: <a href="/author/%C1%D6%D3%F0%BD%AD%D1%D5" title="林羽江颜的全部作品">林羽江颜</a></p>
+        <p class='cat-book-intro'>人死的时候会有意识吗？会，因为我经历过。
+这个世界上真的有鬼吗？有，因&nbsp;<a style="color:red" href="https://www.qianqianxs.com/63/63419/">[点击阅读]</a></p>
+    </div>
+</div>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>2.</font>
+        <a href="https://www.qianqianxs.com/65/65935/" title="最佳女婿林羽江颜" >最佳女婿林羽江颜</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>3.</font>
+        <a href="https://www.qianqianxs.com/14/14645/" title="怪医圣手叶皓轩" >怪医圣手叶皓轩</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>4.</font>
+        <a href="https://www.qianqianxs.com/7/7632/" title="爱上你劫数难逃" >爱上你劫数难逃</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>5.</font>
+        <a href="https://www.qianqianxs.com/61/61935/" title="情起难寻，伴你始终" >情起难寻，伴你始终</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>6.</font>
+        <a href="https://www.qianqianxs.com/67/67303/" title="情深绵绵：代嫁新妻" >情深绵绵：代嫁新妻</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>7.</font>
+        <a href="https://www.qianqianxs.com/1/1788/" title="[综]我的日常不太对" >[综]我的日常不太对</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>8.</font>
+        <a href="https://www.qianqianxs.com/1/1420/" title="阴阳师夏目[综漫]" >阴阳师夏目[综漫]</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>9.</font>
+        <a href="https://www.qianqianxs.com/36/36557/" title="驾校情缘老赵孙潇潇" >驾校情缘老赵孙潇潇</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>10.</font>
+        <a href="https://www.qianqianxs.com/0/2/" title="神级龙卫" >神级龙卫</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>11.</font>
+        <a href="https://www.qianqianxs.com/19/19633/" title="深爱在相遇之后" >深爱在相遇之后</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>12.</font>
+        <a href="https://www.qianqianxs.com/2/2324/" title="和你诉说爱情" >和你诉说爱情</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>13.</font>
+        <a href="https://www.qianqianxs.com/65/65687/" title="死了都要爱金水" >死了都要爱金水</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>14.</font>
+        <a href="https://www.qianqianxs.com/62/62397/" title="金色梦乡" >金色梦乡</a>
+	</li>
+
+	<li class="list-group-item nowrap px13 ">
+        <span class="badge"></span>
+        <font class='id_sequence'>15.</font>
+        <a href="https://www.qianqianxs.com/190/190811/" title="最佳女婿林羽" >最佳女婿林羽</a>
+	</li>
+
+					</ul>
+				</div>
+            </div>
+        </div>
+
+
+        <div class="col-sm-12 col-md-12">
+		<!--<script>_17mb_pcbottom();_17mb_wapbottom();</script>-->
+    <div class="panel panel-default">
+        <div class="panel-heading"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> 友情链接</div>
+        <div class="panel-body" style="padding:15px 0 5px 10px" >
+            <ul class="list-inline px12 yqlink">
+                <li><a href="http://mip.qianqianxs.com" target="_blank">天定福妻</a>
+<a href="http://www.25shu.com" target="_blank">爱我小说</a>
+<a href="http://www.wjxs.cc" target="_blank">无极小说</a>
+<a href="http://www.miaoxs.com" target="_blank">喵小说</a>
+<a href="http://www.txttxttxt.com" target="_blank">TXT中文</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+    </div>
+    <!-- Site footer -->
+<footer class="footer">
+    <p>
+天定福妻 作者：花日绯 https://www.qianqianxs.com <a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=larisago.moyunova7@gmail.com"><font color="red">联系邮箱</font></a><br/>
+如果侵犯了您的权利，请与联系上方邮箱，我们将在24小时之内进行处理。任何非本站因素导致的法律后果，本站均不负任何责任。</p>
+</footer>
+
+<div style="display:none">
+<script>_17mb_tj();_17mb_pcduilian();</script>
+</div>
+</div> <!-- /container -->
+</body>
+</html>

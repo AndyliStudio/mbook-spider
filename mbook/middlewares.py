@@ -6,7 +6,7 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-
+import random
 
 class MbookSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
@@ -101,3 +101,15 @@ class MbookDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+
+class ProxyMiddleware(object):
+    """Custom ProxyMiddleware."""
+    def __init__(self, settings):
+        self.proxy_list = settings.get('PROXY_LIST')
+        print(self.proxy_list)
+        with open(self.proxy_list) as f:
+            self.proxies = [ip.strip() for ip in f]
+
+    def parse_request(self, request, spider):
+        request.meta['proxy'] = 'http://{}'.format(random.choice(self.proxies))
