@@ -5,8 +5,8 @@ from mbook.utils.chinese2num import chinese2num
 from mbook.utils.parseChapterStr import parseChapterStr
 
 
-class QianQianSpider(scrapy.Spider):
-    name = 'qianqianxiaoshuo'
+class MbookSpider(scrapy.Spider):
+    name = 'mbook-update'
     allowed_domains = ['www.qianqianxs.com']
     start_urls = ['https://www.qianqianxs.com/113/113162/']
 

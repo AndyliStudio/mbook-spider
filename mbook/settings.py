@@ -89,6 +89,14 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+# Mongo设置
+MONGODB_AUTH = False
+MONGODB_HOST = "1.2.1.2"
+MONGODB_PORT = 27017
+MONGODB_USER = "mbook"
+MONGODB_PASS = "121960425mongo"
+MONGODB_DB = "mbook-v2"
+
 # 阿布云代理设置，https://center.abuyun.com/#/cloud/http-proxy/tunnel/lists
 PROXY_SERVER = "http://http-pro.abuyun.com:9010"
 PROXY_USER = "H2U598U6D83Z2Q5P"  # 阿布云通行证书
