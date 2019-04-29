@@ -21,7 +21,7 @@ class MongoDBConnect():
         try:
             connection = pymongo.MongoClient(url)
             db = connection[settings['MONGODB_DB']]
-            self.Book = db['mbooks']
+            self.Book = db['books']
             self.Chapter = db['chapters']
         except pymongo.errors.ConnectionFailure as e:
             logging.error('MongoDB连接失败：%s', e)
